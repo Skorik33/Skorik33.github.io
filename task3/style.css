@@ -1,0 +1,32 @@
+p {
+	text-indent: 1.5em;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.brd1 {
+	width: 850px;
+	border: 3px dashed red;
+}
+
+.brd2 {
+	width: 425px;
+	border: 2px solid #5fc411;
+}
+
+.brd3 {
+	width: 850px;
+	
+}
+
+.brd4 {
+	width: 850px;
+	
+}
+
+
+
+
+text-indent, border, min-height, width, color 
