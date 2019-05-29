@@ -1,0 +1,17 @@
+body{
+     width: 680px;
+}
+h1{
+	font-size: 23px;
+}
+ol{
+	text-transform: uppercase;
+}
+ul{
+	text-transform: none;
+}
+.text1{
+	text-transform: none;
+}
+
+	
