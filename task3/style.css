@@ -9,6 +9,7 @@ ul {
 .brd1 {
 	width: 850px;
 	border: 3px dashed red;
+	
 }
 
 .brd2 {
@@ -18,15 +19,22 @@ ul {
 
 .brd3 {
 	width: 850px;
+	border: 2px solid #5fc411;
+	border-left-color: #2062a0;
+	border-right-color: #d13f17;
+	border-top-color: #a4aa9e;
+	border-bottom-color: #377f2d;
 	
 }
 
 .brd4 {
 	width: 850px;
+	border: 2px solid #5fc411;
+	text-align: left;
 	
 }
 
 
 
 
-text-indent, border, min-height, width, color 
+ border, min-height,  color 
