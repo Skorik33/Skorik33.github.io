@@ -2,6 +2,10 @@ p {
 	text-indent: 1.5em;
 }
 
+h1 {
+	margin: 5px auto;
+}
+
 ul {
 	list-style-type: square;
 }
@@ -32,5 +36,10 @@ ul {
 	width: 850px;
 	border: 2px solid #5fc411;
 	
+}
+
+.remarka {
+	text-indent: initial;
+	margin: 0 20px 30px 0;
 }
 
